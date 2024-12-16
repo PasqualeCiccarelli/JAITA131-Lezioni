@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;somma&apos; in &apos;pausa_Debug.ProvaDebug.stampa(...)&apos; to &apos;pippo&apos;&#x0D;&#x0A;- Original project: &apos;Pausa_Debug&apos;&#x0D;&#x0A;- Original element: &apos;pausa_Debug.ProvaDebug.stampa(int).somma&apos;&#x0D;&#x0A;- Renamed element: &apos;somma&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;somma&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;pausa_Debug{ProvaDebug.java[ProvaDebug~stampa~I@somma!384!392!388!392!I!0!true" name="pippo" references="true" stamp="1730113640009" version="1.0"/>
+</session>

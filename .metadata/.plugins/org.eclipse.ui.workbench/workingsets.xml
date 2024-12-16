@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1728372106914_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1728372106924_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.mylyn.tasks.ui.workingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1732182134272_3" label="JavaAvanzato" name="JavaAvanzato">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/demo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/halloworld" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/01-SpringBase" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/02-springBase" type="4"/>
+<item elementID="=03-springJpa" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/03SpringJpa-Allen" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.mylyn.tasks.ui.workingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1732186540066_7" label="JavaBase" name="JavaBase">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Espackag" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TestRiproducibile" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/calcoli" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TestVeivolo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TestGenerics" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/testVeicolo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EserciziAutonomi" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EsercizioDadoMoneta" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EsercizioDipendenti" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/.BndtoolsJAREditorTempFiles" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EsercizioProdotti2" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EserciziArray" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Esercizio2ArrayList" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Numeri" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EsercizioSupermercato" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TestUsabile" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EserciziCicli" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EsercizioProdotti" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TestAnonime" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TestPersona" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EstensioniInterfaccia" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EserciziCollection" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EsercizoNegozio" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/primo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Code" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/InputUtente" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EsercizioLamapdina" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TestDipendente" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Cicli" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EsempioArray" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TestPesabile" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EserciziArray2" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/GestioneDelFlusso" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TestRiproducibile2" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Stringhe" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TestForme" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TestAnimali" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Mettodi" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MetodiDefault" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ProvaSet" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EsercizioInput" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EsercizioLibro" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EsercizioInport2" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EsercizioListe" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EsercizioCollection4" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Array_list" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EsempioMap" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EsercizioTelefono" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EsercizioGenerico" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EsercizioArrayList" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EsercizioStudente" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TestStudente" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Pila" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TestStrumenti" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/GestioneDate" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EserciziCollection3" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/variabili" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EserciziCollection2" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EsercizioTry" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EsercizioContoCorrente" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Secondo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Frigorifero" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TestPredatore" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EserciziPamela" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Macchina" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EsercizioGarage" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TestGatto" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/GestioneEccezioni" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Pausa_Debug" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Esercizio3" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ClassiAstratteRipasso" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.mylyn.tasks.ui.workingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1732800152136_7" label="Java-Base-Avanzato" name="Java-Base-Avanzato"/>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1732800482634_14" label="Java_Avanzato" name="Java_Avanzato">
+<item elementID="=Java_Avanzato" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Java_Avanzato_Database" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=EsercizioJdbc" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=AmicoDao" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=EsercizioContoBancario" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1728372107441_2" label="Window Working Set" name="Aggregate for window 1728372107441"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1732186549738_8" label="Multiple Working Sets" name="Aggregate:JavaAvanzato:JavaBase:">
+<workingSet IMemento.internal.id="JavaAvanzato"/>
+<workingSet IMemento.internal.id="JavaBase"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1732800190495_9" label="Multiple Working Sets" name="Aggregate:JavaAvanzato:JavaBase:Java-Base-Avanzato:Java Main Sources:Java Test Sources:">
+<workingSet IMemento.internal.id="JavaAvanzato"/>
+<workingSet IMemento.internal.id="JavaBase"/>
+<workingSet IMemento.internal.id="Java-Base-Avanzato"/>
+<workingSet IMemento.internal.id="Java Main Sources"/>
+<workingSet IMemento.internal.id="Java Test Sources"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1732800230763_10" label="Multiple Working Sets" name="Aggregate:JavaAvanzato:JavaBase:Java-Base-Avanzato:">
+<workingSet IMemento.internal.id="JavaAvanzato"/>
+<workingSet IMemento.internal.id="JavaBase"/>
+<workingSet IMemento.internal.id="Java-Base-Avanzato"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1733388029777_12" label="Multiple Working Sets" name="Aggregate:Java_Avanzato:JavaAvanzato:JavaBase:Java-Base-Avanzato:">
+<workingSet IMemento.internal.id="Java_Avanzato"/>
+<workingSet IMemento.internal.id="JavaAvanzato"/>
+<workingSet IMemento.internal.id="JavaBase"/>
+<workingSet IMemento.internal.id="Java-Base-Avanzato"/>
+</workingSet>
+<mruList name="JavaBase"/>
+<mruList name="Java-Base-Avanzato"/>
+<mruList name="JavaAvanzato"/>
+</workingSetManager>

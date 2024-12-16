@@ -1,0 +1,5 @@
+package org.generatio.jpa.services;
+
+public interface UtenteService {
+
+}

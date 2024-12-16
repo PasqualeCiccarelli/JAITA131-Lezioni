@@ -1,0 +1,15 @@
+package org.generatio.jpa.services;
+
+import java.util.List;
+
+import org.generatio.jpa.entities.Utente;
+
+public class UtenteServiceImpl implements UtenteService {
+
+	@Override
+	public List<Utente> prendiTutti() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

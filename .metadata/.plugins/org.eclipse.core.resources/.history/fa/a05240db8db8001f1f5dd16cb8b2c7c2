@@ -1,0 +1,5 @@
+package org.generatio.jpa.entities;
+
+public class Utente {
+
+}

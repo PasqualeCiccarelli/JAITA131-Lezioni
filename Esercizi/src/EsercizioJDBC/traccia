@@ -1,0 +1,14 @@
+Esercizio Database JDBC:
+
+-Creare un nuovo progetto JavaJdbcAmici
+-creare una struttura del progetto in stile multistrato con i seguenti poakages
+--models
+--dals
+--controllers
+--views
+
+-creare un controller AmiciCtrl che gestisce i dati dalla trabella java2024/amici
+
+-copiare la classe ConnessioneDatabase del progetto esempio
+
+-creare 

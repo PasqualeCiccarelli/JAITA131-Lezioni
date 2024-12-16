@@ -1,0 +1,4 @@
+1733395522527	Rename type 'AutoreDaoIml'
+1733399587886	Rename type 'AutoreDaoImpl'
+1733405037700	Rename package 'Model'
+1733409906073	Extract method 'settaValoriLibro'

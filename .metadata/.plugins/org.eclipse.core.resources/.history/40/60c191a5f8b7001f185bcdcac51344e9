@@ -1,0 +1,9 @@
+package dals;
+
+public class ConnessioneDatabase {
+	
+	private static final String HOST = "jdbc:mysql://localhost:3306/java2024";
+	private static final String USER = "app_java";
+	private static final String PASSWORD = "java2024!";
+
+}
