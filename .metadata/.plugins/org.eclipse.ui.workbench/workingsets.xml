@@ -91,6 +91,12 @@
 <item elementID="=AmicoDao" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=EsercizioContoBancario" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1734602405588_12" label="project-work-prova" name="project-work-prova">
+<item elementID="=progettoMacchine" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1734602502687_13" label="projectWork-prova" name="projectWork-prova">
+<item elementID="=progettoMacchine" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1728372107441_2" label="Window Working Set" name="Aggregate for window 1728372107441"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1732186549738_8" label="Multiple Working Sets" name="Aggregate:JavaAvanzato:JavaBase:">
 <workingSet IMemento.internal.id="JavaAvanzato"/>
@@ -108,12 +114,13 @@
 <workingSet IMemento.internal.id="JavaBase"/>
 <workingSet IMemento.internal.id="Java-Base-Avanzato"/>
 </workingSet>
-<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1733388029777_12" label="Multiple Working Sets" name="Aggregate:Java_Avanzato:JavaAvanzato:JavaBase:Java-Base-Avanzato:">
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1734602507024_14" label="Multiple Working Sets" name="Aggregate:Java_Avanzato:JavaAvanzato:JavaBase:Java-Base-Avanzato:">
 <workingSet IMemento.internal.id="Java_Avanzato"/>
 <workingSet IMemento.internal.id="JavaAvanzato"/>
 <workingSet IMemento.internal.id="JavaBase"/>
 <workingSet IMemento.internal.id="Java-Base-Avanzato"/>
 </workingSet>
+<mruList name="project-work-prova"/>
 <mruList name="JavaBase"/>
 <mruList name="Java-Base-Avanzato"/>
 <mruList name="JavaAvanzato"/>
